@@ -1,6 +1,6 @@
 ---
 # AGENT SKILLS STANDARD FIELDS (v2)
-name: critical-thinking-task-designer
+name: literacy-critical-thinking-task-designer
 description: "Design a critical thinking task targeting specific skills like evaluating evidence, identifying bias, or analysing arguments. Use when embedding critical analysis into subject lessons."
 disable-model-invocation: false
 user-invocable: true
@@ -8,8 +8,8 @@ effort: medium
 
 # EXISTING FIELDS
 
-skill_id: "literacy-critical-thinking/critical-thinking-task-designer"
-skill_name: "Critical Thinking Task Designer"
+skill_id: "literacy-critical-thinking/literacy-critical-thinking-task-designer"
+skill_name: "Literacy Critical Thinking Task Designer"
 domain: "literacy-critical-thinking"
 version: "1.0"
 evidence_strength: "strong"
