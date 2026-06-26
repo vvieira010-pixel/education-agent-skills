@@ -13,7 +13,7 @@ skill_name: "Prompt Literacy Sequence Designer"
 domain: "ai-literacy"
 version: "1.0"
 contributor: "Gareth Manning"
-evidence_strength: "low-moderate"
+evidence_strength: "moderate"
 evidence_sources:
   - "Brown et al. (2020) — Language Models are Few-Shot Learners (GPT-3 few-shot prompting)"
   - "Liu et al. (2023) — Pre-Train, Prompt, and Predict: a systematic survey of prompting methods in NLP"

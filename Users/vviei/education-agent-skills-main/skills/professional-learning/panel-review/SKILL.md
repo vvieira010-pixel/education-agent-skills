@@ -8,7 +8,7 @@ skill_id: professional-learning/panel-review
 skill_name: Panel review — seven-role independent-mode review of framework artefacts
 domain: professional-learning
 version: "1.0.0"
-evidence_strength: medium
+evidence_strength: "moderate"
 evidence_sources:
   - "Wiliam, D. (2011) — Embedded Formative Assessment, Solution Tree: formative feedback architecture, inter-rater reliability, scoreability as the test of a criterion."
   - "Claxton, G. (2002) — Building Learning Power, TLO: dispositions as ongoing stance rather than episodic performance; cultivation over training."
